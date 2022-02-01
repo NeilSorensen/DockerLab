@@ -1,0 +1,13 @@
+obj/
+bin/
+.idea/
+.vs/
+.vscode/
+*.log
+*.user
+*.nupkg
+node_modules/
+.terraform/
+TESTS.xml
+.ssl/
+.DS_Store
